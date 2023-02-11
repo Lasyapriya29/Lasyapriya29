@@ -17,7 +17,7 @@ Thank You for visiting and I'd love to [connect](https://www.linkedin.com/in/sag
 
 
 ```
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I've a keen interest on Artificial Intelligence.
 - 🌱 I’m currently learning Web Development in Python.
 - 💞️ I’m looking to work in a good product based company.
 - 📫 You can reach me through 📨saginetilasya29@gmail.com

@@ -21,13 +21,14 @@ Thank You for visiting and I'd love to [connect](https://www.linkedin.com/in/sag
 
 
 ### 👨‍💻 Languages and Tools
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Lasyapriya29)](https://github.com/sagineti-lasya-priya) 
+[![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)](https://github.com/Lasyapriya29)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Lasyapriya29)](https://github.com/Lasyapriya29) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Lasyapriya29)](https://github.com/Lasyapriya29) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/sagineti-lasya-priya)](https://github.com/Lasyapriya29)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Lasyapriya29)](https://github.com/Lasyapriya29) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Lasyapriya29)](https://github.com/Lasyapriya29) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Lasyapriya29)](https://github.com/Lasyapriya29) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/sagineti-lasya-priya)](https://github.com/sagineti-lasya-priya)

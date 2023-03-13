@@ -1,12 +1,10 @@
 # Hey! I'm Lasya Priya ✨
-[![Linkedin Badge](https://img.shields.io/badge/-lasyapriya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasyapriya/)](https://www.linkedin.com/in/sagineti-lasya-priya-194567208/)
-[![Gmail Badge](https://img.shields.io/badge/-saginetilasya29-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saginetilasya29@gmail.com)](mailto:saginetilasya29@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lasyapriya29&label=Profile%20views&color=0e75b6&style=flat" alt="Lasyapriya29" /> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lasyapriya29" alt="Lasyapriya29" /></a></p> -->
 
-Welcome to my `mini 🌍`! I'm a 3rd year undergrad `@cse` VIIT. I am a Competitive programmer and currently learning Web Development using Python.
+Welcome to my `mini 🌍`! I am a Competitive programmer and currently learning Web Development using Python.
 Thank You for visiting and I'd love to [connect](https://www.linkedin.com/in/sagineti-lasya-priya-194567208/)!
 
 
@@ -50,7 +48,7 @@ Thank You for visiting and I'd love to [connect](https://www.linkedin.com/in/sag
 
 <hr>
 <h1 align="center">
-✨ Where you can find me ✨
+✨ You can find me at✨
 
 <p align="center">
   <br/>
